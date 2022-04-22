@@ -26,9 +26,9 @@ The Nederlandse API Strategie consists of [three distinct documents](https://www
 | IIa  | Standard for designing APIs                  | Normative   | https://publicatie.centrumvoorstandaarden.nl/api/adr/ |
 | IIb  | Extension on the Standard for designing APIs | Informative | https://docs.geostandaarden.nl/api/API-Strategie-ext/ |
 
-Before reading this document it's adviced to gain knowledge of the tree documents and more specific [the architecture section of part I](https://docs.geostandaarden.nl/api/API-Strategie/#architectuur).
+Before reading this document it's adviced to gain knowledge of the three documents and more specific [the architecture section of part I](https://docs.geostandaarden.nl/api/API-Strategie/#architectuur).
 
 ## Extensions
 <aside class="note">
-In addition to this (normative) document, a separate document has been written providing a set of informative extensions. This extensions document exists in a [latest published version](https://docs.geostandaarden.nl/api/API-Strategie-ext/)(Gepubliceerde versie in Dutch) and a [latest editors draft](https://geonovum.github.io/KP-APIs/API-strategie-extensies/) (Werkversie in Dutch). The latest editor's draft is actively being worked on and can be found on GitHub. It contains the most recent changes.
+In addition to this (normative) document, a separate document has been written providing a set of informative extensions. This extensions document exists in a [latest published version](https://docs.geostandaarden.nl/api/API-Strategie-ext/) (Gepubliceerde versie in Dutch) and a [latest editors draft](https://geonovum.github.io/KP-APIs/API-strategie-extensies/) (Werkversie in Dutch). The latest editor's draft is actively being worked on and can be found on GitHub. It contains the most recent changes.
 </aside>
